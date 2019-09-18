@@ -2,4 +2,4 @@
 
 Test Repository
 
-Learning how to yse GitHub
+Learning how to use GitHub
